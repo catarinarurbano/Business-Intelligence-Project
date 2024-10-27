@@ -1,9 +1,9 @@
 # BI Project
 
-## Objective: 
+## Objective
 Deliver an end-to-end Self Service BI solution to support strategic, tactical and operational business decisions.
 
-#### Source Data :
+### Source Data 
 Each group had to choose a business/organizational problem.  The source data had to contain, at the very minimum, the following features:
 
 - Some sort of transactional records that can represent quantifiable facts. Also, transactional data that has regular, “well-behaved” quantitative measures, that is, data that keeps track of quantities that are easy to understand can be easily operated on (summed, averaged, etc.) and that display a reasonably regular pattern across time.
