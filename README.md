@@ -1,6 +1,6 @@
 # BI Project
 
-## Objective
+## Project Overview
 Deliver an end-to-end Self Service BI solution to support strategic, tactical and operational business decisions.
 
 ### Source Data 
